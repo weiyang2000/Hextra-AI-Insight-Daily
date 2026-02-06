@@ -3,100 +3,110 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-05
-description: Your daily source for curated AI news, practical tools, and actionable
-  tutorials to master Artificial Intelligence;
+next: /2026-02/2026-02-05
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
-## AI News Daily 2026/2/6 🚀
 
-> `AI News` | `Daily Brief` | `Global Data Aggregation` | `Frontier Science` | `Industry Insights` | `Open Source Power` | `AI & Human Future` | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 👋](https://source.hubtoday.app/logo/wechat-qun.jpg)
+## AI资讯日报 2026/2/6
 
-### Today's Digest 📰
+>  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+
+
+
+### **今日摘要**
 
 ```
-Keling AI 3.0 reconstructs underlying logic, supports native 4K and smart scene splitting
-Tiangong launches desktop Agent, system-level processing rivals Claude
-Ant Lingbo open-sources embodied AI models, aiming to build robot brains
-Google and Apple forge cloud service alliance, China's AI user base exceeds 600 million
-HKU open-sources minimalist Jarvis, pure Python implementation lowers barrier
+可灵AI3.0重构底层逻辑，支持原生4K与智能分镜
+天工上线桌面端Agent，系统级处理对标Claude
+蚂蚁灵波开源具身智能模型，致力构建机器人大脑
+谷歌苹果达成云服务盟约，我国AI用户规模破六亿
+港大开源极简贾维斯，纯Python实现降低门槛
 ```
 
-### Product & Feature Updates ✨
 
-1.  **Keling AI 3.0 officially launched.**
-    Keling AI 3.0, the latest version, has officially launched 🚀, marking a complete overhaul of its underlying architecture. This new era for Keling AI introduces smart scene splitting for cinematic video generation, native 4K output for enhanced image quality, and smoother multimodal collaborative creation.
-    <br/>![AI News: Keling AI 3.0 generated cinematic multi-shot video footage](https://source.hubtoday.app/images/2026/02/news_01kgq9653yfh88ntw5yjx30zp1.avif)<br/>
 
-2.  **Tencent Games upgrades winter break anti-addiction measures.**
-    Tencent Games has updated its anti-addiction measures for the winter break 🎮, strictly limiting minors to one hour of gaming in the evening and a total of fifteen hours for the entire period. The platform now features AI-powered one-click management, allowing parents to effortlessly oversee their children's gaming activity. Additionally, new AI weekly reports offer insights into gaming behavior, providing more personalized protection plans.
-    <br/>![AI News: Tencent Games releases winter break minor gaming restriction calendar and AI control features](https://source.hubtoday.app/images/2026/02/news_01kgq967x3ecvtscz1qm6jne5e.avif)<br/>
 
-3.  **Tiangong launches desktop AI assistant.**
-    Tiangong has launched its new desktop AI assistant 💻, an Agent designed to rival Claude with system-level file processing capabilities. This tool offers batch organization and multimodal output, packed with over a hundred practical Skills. For security, it uses virtual machine isolation, and Windows users can grab an early look.
-    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kgq96eamec4a7jqcj0jyacth.mp4" controls="controls" width="100%"></video><br/>
 
-### Frontier Research 🔬
 
-1.  **Ant Lingbo open-sources embodied AI models.**
-    Ant Lingbo has open-sourced four physical AI models within a week 🤖, pushing the boundaries from the digital to the physical world. The team behind Lingbo emphasizes using real-world data, with their LingBot-VA model already demonstrating imaginative reasoning. They're explicitly avoiding a purely simulation-based approach, focusing instead on truly building the "brains" for robots.
-    <br/>![AI News: Ant Lingbo Embodied AI Robot LingBot Operation Demo](https://source.hubtoday.app/images/2026/02/news_01kgq96jxxfa9tczxkm9efs5cj.gif)<br/>
+### 产品与功能更新
 
-2.  **Large Language Models (LLMs) accurately analyze political stances.**
-    Large Language Models (LLMs) can now accurately analyze political stances 🧠, with new research highlighting the critical role of contextual information when processing informal discourse. By generating structured user profiles, LLM accuracy improved by nearly 40%. Turns out, strategically choosing historical posts works way better than just pulling random context.
+1. **可灵AI3.0版本正式发布。**
+可灵AI迈入🚀全新的[3.0时代(AI资讯)](https://www.aibase.com/zh/news/25294)，底层逻辑实现全面重构。新版本引入了(✧∀✧)智能分镜功能，视频生成具备电影级叙事感。画质提升支持原生🎨4K输出，多模态协同创作更加丝滑。
+<br/>![AI资讯：可灵AI3.0生成的电影级多镜头视频画面](https://source.hubtoday.app/images/2026/02/news_01kgq9653yfh88ntw5yjx30zp7.avif)<br/>
 
-3.  **PromptSplit framework reveals generative model discrepancies.**
-    The PromptSplit framework, a new tool 🔍, is shedding light on generative model discrepancies by analyzing how different prompts influence outcomes. It leverages kernel methods to create joint representations, pinpointing exactly which prompts lead to variations. This gives us a fresh, interpretable perspective on understanding how these generative models actually behave.
+2. **腾讯游戏升级寒假防沉迷。**
+寒假期间未成年人🎮仅限[晚间一小时(AI资讯)](https://www.aibase.com/zh/news/25310)游戏，总时长严格限制十五小时。平台引入AI🤖实现一键管控，家长可轻松监督孩子动态。新增AI周报📊解读游戏行为，守护方案更加个性化。
+<br/>![AI资讯：腾讯游戏发布寒假未成年人限玩日历及AI管控功能](https://source.hubtoday.app/images/2026/02/news_01kgq967x3ecvtscz1qm6jne5e.avif)<br/>
 
-### Industry Outlook & Social Impact 🌍
+3. **天工上线桌面版AI助手。**
+天工推出对标Claude的💻[桌面端Agent(AI资讯)](https://x.com/oran_ge/status/2019201553475989575)，具备系统级文件处理能力。支持批量整理📂与多模态输出，内置百余种实用技能Skills。采用虚拟机隔离🛡️保障安全，Windows用户可抢先体验。
+<br/><video src="https://source.hubtoday.app/images/2026/02/news_01kgq96eamec4a7jqcj0jyacth.mp4" controls="controls" width="100%"></video><br/>
 
-1.  **Google and Apple forge cloud service alliance.**
-    Google and Apple have forged a cloud service alliance 🤝, making Google Apple's top pick for a cloud service provider. This partnership means Gemini technology will power Apple's new models, with Google planning massive investments in infrastructure to handle the increased computing demands. With cloud business revenue hitting new highs, this collaboration is set to drive major AI tech innovation.
+### 前沿研究
 
-2.  **China's AI user base exceeds 600 million.**
-    China's AI user base has officially crossed the 600 million mark 📈, with generative AI adoption now topping forty percent. This means a whopping 602 million people are using AI, and half of all internet users are tapping into AI products, shifting the tech from a cool new toy to a serious productivity tool. Plus, China's intelligent computing clusters are massive, keeping its computing power firmly at the global forefront.
+1. **蚂蚁灵波开源具身智能模型。**
+蚂蚁灵波一周内🚀开源四款[物理AI模型(AI资讯)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651015544&idx=1&sn=6cf63094131bf3752559cc41921eb14c)，探索从数字迈向物理世界。团队坚持使用🧪真实世界数据，LingBot-VA模型实现想象推理。拒绝单纯的仿真(✪ω✪)路线，致力于构建机器人的大脑。
+<br/>![AI资讯：蚂蚁灵波具身智能机器人LingBot操作演示](https://source.hubtoday.app/images/2026/02/news_01kgq96jxxfa9tczxkm9efs5cj.gif)<br/>
 
-3.  **Venture capital firm a16z places heavy bets on AI infrastructure.**
-    Venture capital firm a16z is going all-in on AI foundational infrastructure 💰, having raised a massive fund with $1.7 billion specifically earmarked for it. They're zeroing in on computing power and search tech, hoping to solve the talent crunch faced by many startups. The big goal? To own the narrative and influence of intelligence for the next decade. Talk about playing the long game!
+2. **大模型精准分析政治立场。**
+研究发现利用LLM🧠分析[非正式语篇(AI资讯)](https://arxiv.org/abs/2602.04750)时，上下文信息起着关键作用。通过生成用户👤结构化画像，模型准确率提升近四成。策略性选择💡历史贴文，比随机上下文效果更好。
 
-4.  **Microsoft launches AI content trading marketplace.**
-    Microsoft has rolled out an AI content trading marketplace ⚖️, creating a platform to tackle those tricky data copyright disputes. Media giants like Yahoo are already jumping on board. This new hub provides compliant data sources for AI training, ensuring creators get transparent revenue. It's all about turning copyright squabbles into a sustainable, win-win business model.
+3. **新框架揭示生成模型分歧。**
+PromptSplit框架🔍致力于[检测模型分歧(AI资讯)](https://arxiv.org/abs/2602.04009)，分析不同提示词的影响。利用核方法📊构建联合表示，有效定位导致差异的提示词。该工具为理解生成模型🤖行为提供了可解释的新视角。
 
-5.  **Altman responds to AI advertising, sparking heated debate.**
-    Altman's response to AI advertising has totally ignited a heated debate 🔥, especially after Anthropic proudly declared a "no ads" policy. The public is seriously questioning if commercialization isn't just inevitable, but whether ads might actually snatch away users' power to choose. This whole PR battle really puts the spotlight on the tightrope tech giants walk between making bank and doing the right thing.
+### 行业展望与社会影响
 
-### Top Open-Source Projects 🌟
+1. **谷歌苹果达成云服务盟约。**
+谷歌成为苹果🍏首选[云服务提供商(AI资讯)](https://www.aibase.com/zh/news/25312)，Gemini技术赋能苹果新模型。谷歌计划投入💰巨额资金，建设基础设施满足算力需求。云业务营收📈创新高，双方合作推动AI技术革新。
 
-1.  **HKU open-sources minimalist Jarvis.**
-    The HKU team has open-sourced Nanobot 🤖, a minimalist version of Jarvis, streamlining OpenClaw down to just one percent of its original code. Built entirely in Python, it's super easy to get started – you can deploy it and be up and running in just two days! This project snagged five thousand stars within three days of launch, making it possible for anyone to have their own AI assistant.
+2. **我国AI用户规模突破六亿。**
+生成式AI在我国🇨🇳普及率[超过四成(AI资讯)](https://www.aibase.com/zh/news/25303)，用户规模已达6.02亿人。半数网民正在使用💻AI产品，技术从尝鲜转为生产力。智算集群🚀规模宏大，算力水平稳居全球前列。
 
-2.  **UI-TARS-desktop (⭐26.5k)**
-    UI-TARS-desktop (⭐26.5k), ByteDance's open-source multimodal Agent tech stack, connects cutting-edge models with core infrastructure.
+3. **风投a16z重金押注AI基建。**
+顶级风投a16z筹集💸巨资[投向AI底座(AI资讯)](https://www.aibase.com/zh/news/25286)，专门划拨17亿美元用于基建。重点关注算力🏗️与搜索技术，解决初创公司人才荒问题。意在掌控未来十年🔮的智能化话语权。
 
-3.  **Superpowers (⭐45.1k)**
-    Superpowers (⭐45.1k), an effective Agent skills framework, offers a robust software development methodology for developers.
+4. **微软推出AI内容交易市场。**
+微软建立平台解决⚖️[数据版权争议(AI资讯)](https://www.aibase.com/zh/news/25281)，雅虎等媒体巨头率先入局。为AI训练提供🤝合规数据源，创作者可获得透明收益。将版权纠纷(uwu)转化为，可持续发展的商业共赢模式。
 
-4.  **PDF to Epub Tool (⭐New)**
-    PDF to Epub Tool (⭐New), an e-book conversion tool developed using the Baidu OCR API, was crafted by Vibe Coding to help users snag some deals.
+5. **奥特曼回应AI广告引发热议。**
+Anthropic打出🚫无广告口号，奥特曼[发文回应(AI资讯)](https://newshacker.me/story?id=46894151)引发关于伦理的激辩。公众质疑商业化💰不仅是时间问题，广告可能剥夺用户决策权。这场公关战🔥暴露了，科技巨头在营收与道德间的博弈。
 
-### Social Media Buzz 💬
+### 开源TOP项目
 
-1.  **Figma's new feature sweeps the internet.**
-    Figma's new feature is absolutely blowing up the internet ✨: it can now convert bitmaps into vector graphics with astonishing accuracy! This is a huge win for designers, finally tackling a major pain point and making the entire design workflow way more AI-native.
-    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kgq97eg2eacttxspd3k22abz.mp4" controls="controls" width="100%"></video><br/>
+1. **港大开源极简版贾维斯。**
+港大团队将OpenClaw📉精简为[Nanobot(AI资讯)](https://www.jiqizhixin.com/articles/2026-02-05-2)，代码量仅为原版百分之一。纯Python实现🐍降低了门槛，两天内部署即可上手使用。项目上线三天(✧∀✧)斩获五千星标，人人都能拥有AI助理。
 
-2.  **Claude Code adds new insight command.**
-    Claude Code just dropped a slick new `/insights` command 💡 that's basically turning it into your personal project analyst. It can now dig through historical message records, analyzing your workflows and dishing out targeted optimization suggestions. Talk about smart!
+2. **UI-TARS-desktop (⭐26.5k)**
+字节跳动开源的🤖多模态[智能体技术栈(AI资讯)](https://github.com/bytedance/UI-TARS-desktop)，连接前沿模型与基础设施。
 
-3.  **Orange AI shares thoughts on Agent future.**
-    Orange AI, after an offline gathering, shared some wild thoughts on the future of Agents 🤔: they'll completely ditch time constraints, making human input bandwidth the ultimate bottleneck. Forget about software skills — those won't matter anymore, as token economics is set to totally reshape how we value things.
+3. **Superpowers (⭐45.1k)**
+一套行之有效的💡智能体[技能框架(AI资讯)](https://github.com/obra/superpowers)，为开发者提供软件开发方法论。
+
+4. **PDF转Epub工具 (⭐New)**
+基于百度OCR接口📄开发的[电子书工具(AI资讯)](https://github.com/jarodise/pdf2epub-paddle)，Vibe Coding编写助力薅羊毛。
+
+### 社媒分享
+
+1. **Figma新功能全网刷屏。**
+Figma推出将位图🖼️转为[矢量图功能(AI资讯)](https://x.com/tuturetom/status/2019222509535601063)，精准度令人惊叹。设计师的痛点😭终于被解决，设计流程更加AI原生化。
+<br/><video src="https://source.hubtoday.app/images/2026/02/news_01kgq97eg2eacttxspd3k22abz.mp4" controls="controls" width="100%"></video><br/>
+
+2. **Claude Code新增洞察指令。**
+Claude新增`/insights`🔍指令[分析工作流(AI资讯)](https://x.com/dotey/status/2019312403289121213)，化身私人分析师复盘项目。它能读取历史📜消息记录，并提供针对性的优化建议。
+
+3. **线下聚会感悟Agent未来。**
+Orange AI感叹Agent🤖将消除[时间限制(AI资讯)](https://x.com/oran_ge/status/2019422310508425263)，人类输入带宽成最大瓶颈。软件技能📚将不再重要，Token经济将重塑价值体系。
 
 ---
 
-## AI News Daily - Audio Version 🎙️
+## **AI资讯日报语音版**
 
-| **Xiaoyuzhou (Podcast)** | **Douyin (Video Platform)** |
+| 🎙️ **小宇宙** | 📹 **抖音** |
 | --- | --- |
-| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Xiaojiuguan](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+
+
+
